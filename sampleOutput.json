@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Alex Harring, Carmen Reinicke",
+      "title": "Dow tumbles 500 points as protests in China raise supply chain worries - CNBC",
+      "description": "Stocks fell Monday as social unrest from China's prolonged Covid restrictions weighed on markets.",
+      "url": "https://www.cnbc.com/2022/11/27/stock-futures-slip-after-a-winning-holiday-week-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107131110-1665157490980-nys4.jpg?v=1669662559&w=1920&h=1080",
+      "publishedAt": "2022-11-28T20:41:00Z",
+      "content": "Investors will be watching for Fed Chair Jerome Powell's speech on Wednesday, said Victoria Fernandez, chief market strategist of Crossmark Global Investments. But she said they might be surprised on… [+1183 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Caleb Jones",
+      "title": "Hawaii's Mauna Loa volcano starts erupting: Live updates - The Associated Press - en Español",
+      "description": "HONOLULU (AP) — The world’s largest active volcano  was erupting Monday and wasn't immediately threatening communities on Hawaii’s Big Island, but officials warned residents to be ready for worse.",
+      "url": "https://apnews.com/article/hawaii-volcano-mauna-loa-erupting-live-updates-7cbdb4d597468702210bc31ef8e0a58c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7938310f524149a8ae150e9c8004ffd0/2925.jpeg",
+      "publishedAt": "2022-11-28T20:12:40Z",
+      "content": "HONOLULU (AP) The worlds largest active volcano was erupting Monday and wasnt immediately threatening communities on Hawaiis Big Island, but officials warned residents to be ready for worse.\r\nMany cu… [+4006 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sarah E. Needleman",
+      "title": "Elon Musk Claims Apple Is Threatening to Remove Twitter From App Store - The Wall Street Journal",
+      "description": "Twitter boss attacks iPhone maker and CEO Tim Cook over advertising and censorship",
+      "url": "https://www.wsj.com/articles/elon-musk-attacks-apple-tim-cook-over-advertising-and-censorship-11669662024",
+      "urlToImage": "https://images.wsj.net/im-674784/social",
+      "publishedAt": "2022-11-28T20:05:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Frank Pallotta",
+      "title": "Bob Iger lays out his priorities for Disney as he returns as CEO - CNN",
+      "description": "Bob Iger was back at Disney headquarters on Monday to meet with employees for the first time since surprising the media world by returning as the company's CEO last week.",
+      "url": "https://www.cnn.com/2022/11/28/media/bob-iger-disney-town-hall/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128123054-bob-iger-120621-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-28T19:54:00Z",
+      "content": "Bob Iger was back at Disney headquarters on Monday to meet with employees for the first time since surprising the media world by returning as the companys CEO last week. \r\nIger discussed multiple iss… [+2561 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "World Cup 2022 live updates: Portugal leading Uruguay, 1-0 - FOX Sports",
+      "description": "The second week of the 2022 FIFA World Cup continues Monday with Portugal-Uruguay underway on FOX. Here are the top plays!",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-portugal-uruguay",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/7319aec4-11.27.22_WC-Top-Plays_Portugal-Uruguay_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-11-28T19:52:30Z",
+      "content": "The second week of the 2022 FIFA World Cup\r\n continues Monday with Portugal leading Uruguay at Qatar's Lusail Stadium, and we've got you covered with every must-see moment from the Group H tilt on FO… [+2240 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Jeff Passan",
+      "title": "Source - Astros land slugger Jose Abreu with 3-year deal - ESPN",
+      "description": "The Astros have reached agreement on a 3-year contract with first baseman Jose Abreu, a source told ESPN's Jeff Passan. The 2020 AL MVP, Abreu is second in the majors with 863 RBIs since coming to the majors in 2014.",
+      "url": "https://www.espn.com/mlb/story/_/id/35131975/source-astros-land-slugger-jose-abreu-multiyear-deal",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0324%2Fchi_u_jabreu_1296x729.jpg",
+      "publishedAt": "2022-11-28T19:51:15Z",
+      "content": "First baseman Jose Abreu and the Houston Astros are in agreement on a three-year contract, a source told ESPN, adding another run-producing bat to the World Series champions' lineup that's already fi… [+1583 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Gary Craig, USA TODAY",
+      "title": "Buffalo shooter Payton Gendron pleads guilty in Tops mass shooting - USA TODAY",
+      "description": "The 19-year-old white man accused of fatally shooting 10 Black people at a Buffalo supermarket pleaded guilty Monday morning to state charges.",
+      "url": "https://www.usatoday.com/story/news/nation/2022/11/28/buffalo-shooter-payton-gendron-pleads-guilty/10789292002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/05/27/PROC/63b4b43a-968f-4787-b02a-3e9cf9514846-TY_052522_LANDON_ST_MOUNTAIN_MEMORIALS_TOPS_BUFFALO.jpg?auto=webp&crop=2499,1406,x0,y127&format=pjpg&width=1200",
+      "publishedAt": "2022-11-28T19:30:00Z",
+      "content": "The 19-year-old white man accused of fatally shooting 10 Black people at a supermarket in Buffalo, New York, pleaded guilty Monday morning to more than a dozen related state charges.\r\nPayton Gendron … [+4280 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "Kylie Jenner Shares Adorable New Photos of Son After Confirming His Name Is Still Wolf - Yahoo Entertainment",
+      "description": "Kylie Jenner and Travis Scott share daughter Stormi, 4, and a 9-month-old baby boy whose name they have yet to share since it was changed from Wolf",
+      "url": "https://people.com/parents/kylie-jenner-new-photos-son-after-confirming-name-still-wolf/",
+      "urlToImage": "https://people.com/thmb/zf0tfVucec6lz6Z_alj2gHAQvXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(495x27:497x29)/kylie-jenner-son-112822-d1646c8c5c9540eaba19e72fe7d86575.jpg",
+      "publishedAt": "2022-11-28T19:21:17Z",
+      "content": "Kylie Jenner is giving a closer look at life with her baby boy.\r\nOn Monday, the makeup mogul, 25, shared a series of new photos featuring her 9-month-old son and 4-year-old daughter Stormi, who she s… [+2301 chars]"
+    },
+    {
+      "source": { "id": null, "name": "clevelandbrowns.com" },
+      "author": "Anthony Poisal",
+      "title": "Deshaun Watson returns to Browns 53-man roster - clevelandbrowns.com",
+      "description": "Watson rejoins the Browns as they look to keep building momentum for a playoff push",
+      "url": "https://www.clevelandbrowns.com/news/deshaun-watson-returns-to-browns-53-man-roster",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/browns/iuoqd7tjdbrcnw4ux5y1",
+      "publishedAt": "2022-11-28T18:58:17Z",
+      "content": "Deshaun Watson is officially the Browns' starting quarterback.\r\nThe Browns returned Watson to the active roster on Monday following the end of his 11-game suspension for violating the league's person… [+1998 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Dave Skretta",
+      "title": "Houston reaches No. 1 in AP poll for first time since 1983 - The Associated Press - en Español",
+      "description": "Make some room, Phi Slama Jama. Another Houston team has reached the top of men's college basketball. Nearly four decades after Clyde Drexler and Akeem Olajuwon took the Cougars to No. 1, the latest bunch led by Marcus Sasser and star freshman Jarace Walker t…",
+      "url": "https://apnews.com/article/sports-texas-north-carolina-iowa-basketball-d9c6e757410d02928840cc76178a6682",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e04d3e0b1436483ba8bfd4e932e17a91/3000.jpeg",
+      "publishedAt": "2022-11-28T18:30:40Z",
+      "content": "Make some room, Phi Slama Jama. Another Houston team has reached the top of mens college basketball.\r\nNearly four decades after Clyde Drexler and Akeem Olajuwon took the Cougars to No. 1, the latest … [+3975 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WBAL TV Baltimore" },
+      "author": "Greg Ng",
+      "title": "Small plane crashes into power lines, trapping 2, knocking out electricity in Montgomery County - WBAL TV Baltimore",
+      "description": "Crews rescued two occupants of a small plane that crashed Sunday evening into a power line tower, knocking out power across Montgomery County.",
+      "url": "https://www.wbaltv.com/article/no-power-electricity-outage-montgomery-county/42078097",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/montgomery-village-plane-crash-mcfrs-1669592580.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-11-28T18:19:00Z",
+      "content": "MONTGOMERY VILLAGE, Md. —Crews rescued two occupants of a small plane that crashed Sunday evening into a power line tower, knocking out power across Montgomery County.\r\nMontgomery County Fire Chief S… [+5668 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nectar Gan, Selina Wang",
+      "title": "At the heart of China's protests against zero-Covid, young people cry for freedom - CNN",
+      "description": "For the first time in decades, thousands of people have defied Chinese authorities to protest at universities and on the streets of major cities, demanding to be freed not only from incessant Covid tests and lockdowns, but strict censorship and the Communist …",
+      "url": "https://www.cnn.com/2022/11/28/china/china-protests-covid-political-freedom-intl-hnk-mic/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128101118-04-china-protest-112822.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-28T18:07:00Z",
+      "content": "A version of this story appeared in CNNs Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the countrys rise and how it impacts the world. Sign up here.… [+6806 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Houston Chronicle" },
+      "author": "Matt deGrood",
+      "title": "Houston boil water updates: How the water plant power failed - Houston Chronicle ",
+      "description": "City workers early Monday began gathering water samples in a bid to end Houston's boil...",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/houston/article/houston-boil-water-notice-17615202.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/30/43/07/23212539/6/rawImage.jpg",
+      "publishedAt": "2022-11-28T17:37:30Z",
+      "content": "2:33 p.m.:At H-E-B, Central Market and Mi Tienda locations in Houston, customers are limited to two units of any gallon water jugs or water bottle multi-packs. All Joe V's Smart Shops within the affe… [+15156 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Stephen Sorace",
+      "title": "European ‘super cartel’ busted in six countries; 49 arrests, 30 tons of cocaine seized - Fox News",
+      "description": "Law enforcement in six different countries teamed up to take down a \"super cartel\" of drug traffickers controlling about one third of the cocaine trade in Europe.",
+      "url": "https://www.foxnews.com/world/european-super-cartel-busted-six-countries-arrests-tons-cocaine-seized",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Spain-Guardia-Civil-3.jpg",
+      "publishedAt": "2022-11-28T17:33:17Z",
+      "content": "Law enforcement across Europe teamed up to bust a \"super cartel\" of drug traffickers who control about one third of the cocaine trade in Europe, European authorities said Monday.\r\nThe series of raids… [+2185 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "K.J. Yossman",
+      "title": "Kevin Spacey Books First Movie After Winning $40 Million Sexual Battery Lawsuit - Variety",
+      "description": "Just weeks after it was revealed Kevin Spacey will face more sexual assault charges in the U.K. and he won a $40 million sexual battery lawsuit in the U.S., he has booked a role in an upcoming British indie thriller, Variety has learned exclusively. The featu…",
+      "url": "https://variety.com/2022/film/global/kevin-spacey-movie-sexual-assault-charges-trial-1235443157/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/11/KevinSpacey.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2022-11-28T16:59:00Z",
+      "content": "Just weeks after it was revealed Kevin Spacey will face more sexual assault charges in the U.K. and he won a $40 million sexual battery lawsuit in the U.S., he has booked a role in an upcoming Britis… [+2438 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "LIVE: Maricopa County set to certify 2022 election - AZFamily | 3TV and CBS 5 News in Phoenix",
+      "description": "Maricopa County Board of Supervisors are meeting to certify the 2022 election as required by law. Numerous protesters have gathered outside. STORY: https://b...",
+      "url": "https://www.youtube.com/watch?v=E23LXxyzUtw",
+      "urlToImage": "https://i.ytimg.com/vi/E23LXxyzUtw/maxresdefault_live.jpg",
+      "publishedAt": "2022-11-28T16:56:38Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Lorne Cook",
+      "title": "14 years later, NATO is set to renew its vow to Ukraine - The Associated Press",
+      "description": "BUCHAREST (AP) — NATO returns on Tuesday to the scene of one of its most controversial decisions, intent on repeating its vow that Ukraine — now suffering through the 10th month of a war against Russia — will join the world’s biggest military alliance one day.",
+      "url": "https://apnews.com/article/russia-ukraine-putin-nato-europe-bucharest-1b3564af002c8e879c304a6a85bf1f97",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/703ab30f281d4aca96d005eba8bb6462/2381.jpeg",
+      "publishedAt": "2022-11-28T16:30:00Z",
+      "content": "BUCHAREST (AP) NATO returns on Tuesday to the scene of one of its most controversial decisions, intent on repeating its vow that Ukraine now suffering through the 10th month of a war against Russia w… [+4622 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Katie Hunt",
+      "title": "Newly identified dinosaur that lived on island of dwarfed creatures had an unusual head - CNN",
+      "description": "A previously unknown dinosaur with a remarkably flat head lived around 70 million years ago on an island home to dwarfed prehistoric creatures.",
+      "url": "https://www.cnn.com/2022/11/28/world/new-dwarf-dinosaur-species-discovered-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128081200-02-new-dwarf-dinosaur-species.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-28T16:28:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA previously unknown dinosaur with a remarkably flat h… [+4416 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PhoneArena" },
+      "author": "Iskra Petrova",
+      "title": "[Updated] 45+ Best Cyber Monday phone deals right now - PhoneArena",
+      "description": "",
+      "url": "https://www.phonearena.com/cyber-monday-phone-deals-2022",
+      "urlToImage": "https://m-cdn.phonearena.com/images/hub/262-wide-two_1200/Updated-45-Best-Cyber-Monday-phone-deals-right-now.jpg",
+      "publishedAt": "2022-11-28T16:11:32Z",
+      "content": "Updated: Nov 28, 2022, 10:44 AM\r\nWe may earn a commission if you make a purchase from the links on this page.\r\nCyber Monday has arrived and with it some of the best deals for the season and the year!… [+4591 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Woman sues Kraft Heinz claiming Velveeta Shells & Cheese 'ready' time is misleading - CBS Pittsburgh",
+      "description": "The makers of Velveeta mac and cheese are being sued for potentially lying on their instructions.",
+      "url": "https://www.youtube.com/watch?v=XdQncu5tNBw",
+      "urlToImage": "https://i.ytimg.com/vi/XdQncu5tNBw/maxresdefault.jpg",
+      "publishedAt": "2022-11-28T16:10:18Z",
+      "content": null
+    }
+  ]
+}
