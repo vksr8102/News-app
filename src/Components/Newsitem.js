@@ -11,14 +11,17 @@ const Newsitem=(props)=>  {
                 {source}
               </span>
         </div>
-          <img src={!imageUrl ? "https:image.cnbcfm.com/api/v1/image/107131110-1665157490980-nys4.jpg?v=1669662559&w=1920&h=1080":imageUrl} className="card-img-top" alt="..." />
+      
+
+          <img src={!imageUrl ? "https:image.cnbcfm.com/api/v1/image/107131110-1665157490980-nys4.jpg?v=1669662559&w=1920&h=1080":imageUrl} className="card-img-top " alt="..." style={{height:"250px"}} />
+      
           <div className="card-body">
             <h5 className="card-title">
               {" "}
               {title}{" "}
               {" "}
             </h5>
-            <p className="card-text">{description}</p>
+            <p className="card-text">{description.substring(0,100)}</p>
             <p className="card-text">
               <small className="text-muted">
                 By {!author ? "Unknown" : author} on{" "}
